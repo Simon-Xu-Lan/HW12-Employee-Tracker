@@ -1,0 +1,28 @@
+id,title,salary,department_id,currency,type
+1,CEO,50000,1,USD,Annual
+2,COO,50000,1,USD,Annual
+3,Printing director,5000,3,RMB,Month
+4,Sales director,90000,4,USD,Annual
+5,Senior account manager,51108,4,USD,Annual
+6,Account manager,44643,4,USD,Annual
+7,Plastics director,15000,2,RMB,Month
+8,Printing specialist,4000,3,RMB,Month
+9,Shipping specialist,3800,3,RMB,Month
+10,Plastics specialist,4500,3,RMB,Month
+11,Engineer,5000,3,RMB,Month
+12,product engineer,8000,2,RMB,Month
+13,Tooling production manager,13000,2,RMB,Month
+14,Injection production manager,11000,2,RMB,Month
+15,Packaging production manager,8500,2,RMB,Month
+16,Warehouse lead,5500,2,RMB,Month
+17,Painting manager,10000,2,RMB,Month
+18,Painting production lead,7000,2,RMB,Month
+19,Painting specialist,7500,2,RMB,Month
+20,Pad Painting production lead,7000,2,RMB,Month
+21,Quality Manager,7500,2,RMB,Month
+22,Quality engineer,5500,2,RMB,Month
+23,Tooling engineer,11000,2,RMB,Month
+24,clerk,3500,2,RMB,Month
+25,Booking,4000,2,RMB,Month
+27,Production analysist,5800,2,RMB,Month
+28,3D engineer,5800,2,RMB,Month
